@@ -126,4 +126,4 @@ Shows details about the installed `requests` package.
 
 Installing packages with `pip` is a basic but important Python skill. It allows beginners to add extra tools and libraries to Python for future projects.
 
-Learning how to use `pip` is a strong first step toward working with Python more confidently..
+Learning how to use `pip` is a strong first step toward working with Python more confidently.
